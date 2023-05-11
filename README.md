@@ -1,6 +1,7 @@
 <h1>Jhosaim (jhos)</h1> 
 
-Hi there! My name is Jhosaim and I'm excited to be a part of this platform. As a developer, I'm always looking for ways to showcase my work and collaborate with others to improve my skills. In addition to programming, I enjoy a wide range of hobbies including playing games, reading, listening to music, and playing the guitar.
+Hi there! My name is Jhosaim. As a developer, I'm always looking for ways to showcase my work and collaborate with others to improve my skills.
+In addition to programming, I enjoy a wide range of hobbies including playing games, reading, listening to music, and playing the guitar.
 
 Allow me to introduce myself! Here are a few things you should know about me:
 * I'm currently studying Software Engineering.
@@ -9,7 +10,6 @@ Allow me to introduce myself! Here are a few things you should know about me:
 * I have hands-on experience working on a Full-Stack project and I'm excited to continue building my skills in this area.
 * I'm always looking for opportunities to expand my knowledge and currently, I'm working on Full-Stack projects while also learning new programming languages.
 
-I hope this provides a clearer picture of who I am and what I'm passionate about.
 Looking forward to connecting with others who share the same interests!
 
 
@@ -19,7 +19,7 @@ Looking forward to connecting with others who share the same interests!
 
 <p align="center"> 
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=jhosdev&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com/?user=jhosdev&theme=transparent&hide_border=true&mode=weekly"/>
   
 </p>
 
