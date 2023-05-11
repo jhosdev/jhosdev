@@ -1,7 +1,5 @@
 <h1>Jhosaim (jhos)</h1> 
 
-Hey, this is jhos! I'm a developer looking to show my work and to learn from others in this awesome platform. I enjoy programming, playing a various number of games, reading, listening to music and playing music the guitar.
-
 Hi there! My name is Jhosaim and I'm excited to be a part of this platform. As a developer, I'm always looking for ways to showcase my work and collaborate with others to improve my skills. In addition to programming, I enjoy a wide range of hobbies including playing games, reading, listening to music, and playing the guitar.
 
 Allow me to introduce myself! Here are a few things you should know about me:
