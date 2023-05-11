@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1>Jhosaim (jhos)</h1> 
 
 Hey, this is jhos! I'm a developer looking to show my work and to learn from others in this awesome platform. I enjoy programming, playing a various number of games, reading, listening to music and playing music the guitar.
