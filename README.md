@@ -7,7 +7,7 @@ Allow me to introduce myself! Here are a few things you should know about me:
 * I'm currently studying Software Engineering.
 * I am fluent in both Spanish and English.
 * I have a passion for all things related to software development. I could code all day and never get bored!
-* I have hands-on experience working on a Full-Stack project and I'm excited to continue building my skills in this area.
+* I have hands-on experience working on diverse Full-Stack projects and I'm excited to continue building my skills in this area.
 * I'm always looking for opportunities to expand my knowledge and currently, I'm working on Full-Stack projects while also learning new programming languages.
 
 Looking forward to connecting with others who share the same interests!
