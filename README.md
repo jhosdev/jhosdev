@@ -34,8 +34,23 @@ Looking forward to connecting with others who share the same interests!
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,vercel,tailwind,react,redux,nextjs,angular,java,spring,vue,cs,dotnet,postman,php,laravel,nodejs,nestjs,mysql,materialui,html,firebase,django,py,aws,linux,postgres,mongodb,mysql,fastapi,cpp,git,apollo,astro,aws,azure,babel,bash,c,cs,cpp,flask,fastapi,gcp,git,github,java,jenkins,jest,kafka,kotlin&perline=6" />
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,pinia,prisma,py,rabbitmq,react,redis,sass,spring,tailwind,unity,vuetify,go,&perline=6" />
+    <!-- Languages -->
+<img src="https://skillicons.dev/icons?i=js,ts,java,cs,php,py,cpp,c,kotlin,go&perline=5" />
+
+<!-- Frameworks and Libraries -->
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,angular,vue,spring,laravel,nodejs,nestjs,django,dotnet,fastapi,flask,apollo,astro,pinia,prisma,sass,vuetify&perline=5" />
+
+<!-- Cloud and Infrastructure -->
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,firebase&perline=5" />
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=4" />
+
+<!-- Tools and Technologies -->
+<img src="https://skillicons.dev/icons?i=git,github,postman,jenkins,kafka,rabbitmq,linux,bash,babel,jest,tailwind,materialui,unity&perline=5" />
+
+<!-- Markup and Styling -->
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind&perline=4" />
   </a>
  
  <p align="center">
