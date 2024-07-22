@@ -94,7 +94,7 @@ Looking forward to connecting with others who share the same interests!
 
 <div align="center" style="text-align:center">
     <a>
-        <img src="https://img.shields.io/badge/jhos%238678-404EED?style=for-the-badge&logo=Discord&logoColor=white"
+        <img src="https://img.shields.io/badge/jhos_?style=for-the-badge&logo=Discord&logoColor=white"
             alt="jhos's Discord">
     </a>
     </a>
