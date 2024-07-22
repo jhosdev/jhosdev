@@ -34,12 +34,13 @@ Looking forward to connecting with others who share the same interests!
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,vercel,tailwind,react,redux,nextjs,postman,php,laravel,nodejs,nestjs,mysql,materialui,html,firebase,django,py,aws,linux,postgres,mongodb,mysql,fastapi,cpp,git&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,ts,vercel,tailwind,react,redux,nextjs,angular,java,spring,vue,cs,dotnet,postman,php,laravel,nodejs,nestjs,mysql,materialui,html,firebase,django,py,aws,linux,postgres,mongodb,mysql,fastapi,cpp,git,apollo,astro,aws,azure,babel,bash,c,cs,cpp,flask,fastapi,gcp,git,github,java,jenkins,jest,kafka,kotlin&perline=6" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,pinia,prisma,py,rabbitmq,react,redis,saas,spring,tailwind,unity,vuetify,go,&perline=6" />
   </a>
  
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio&perline=6" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,webstorm&perline=6" />
   </a>
   
 </p>
@@ -47,7 +48,7 @@ Looking forward to connecting with others who share the same interests!
 <h3 align="left">🔮 What I'm currently learning:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,java,spring,vue,cs,dotnet&perline=3" />
+    <img src="https://skillicons.dev/icons?i=actix,dart,rust,kubernetes,lua,neovim,nginx,nix,rails&perline=3" />
   </a>
 </p>
 
