@@ -33,41 +33,53 @@ Looking forward to connecting with others who share the same interests!
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <!-- Languages -->
-    <img src="https://skillicons.dev/icons?i=js,ts,java,cs,php,py,cpp,c,kotlin,go&perline=3" />
-  </a>
-
-  <a href="https://skillicons.dev">
-    <!-- Frameworks and Libraries -->
-    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,angular,vue,spring,laravel,nodejs,nestjs,django,dotnet,fastapi,flask,apollo,astro,pinia,prisma,sass,vuetify&perline=3" />
-  </a>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <!-- Languages -->
+      <img src="https://skillicons.dev/icons?i=js,ts,java,cs,php,py,cpp,c,kotlin,go&perline=3" />
+    </a>
+  </p>
   
-  <a href="https://skillicons.dev">
-    <!-- Cloud and Infrastructure -->
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,firebase&perline=3" />
-  </a>
-
-  <a href="https://skillicons.dev">
-    <!-- Databases -->
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=3" />
-  </a>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <!-- Frameworks and Libraries -->
+      <img src="https://skillicons.dev/icons?i=react,redux,nextjs,angular,vue,spring,laravel,nodejs,nestjs,django,dotnet,fastapi,flask,apollo,astro,pinia,prisma,sass,vuetify&perline=3" />
+    </a>
+  </p>
   
-  <a href="https://skillicons.dev">
-    <!-- Tools and Technologies -->
-    <img src="https://skillicons.dev/icons?i=git,github,postman,jenkins,kafka,rabbitmq,linux,bash,babel,jest,tailwind,materialui,unity&perline=3" />
-  </a>
-
-  <a href="https://skillicons.dev">
-    <!-- Markup and Styling -->
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind&perline=4" />
-  </a>
+  <p align="center">  
+    <a href="https://skillicons.dev">
+      <!-- Cloud and Infrastructure -->
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel,firebase&perline=3" />
+    </a>
+  </p>
+  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <!-- Databases -->
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=3" />
+    </a>
+  </p>
+  
+  <p align="center">  
+    <a href="https://skillicons.dev">
+      <!-- Tools and Technologies -->
+      <img src="https://skillicons.dev/icons?i=git,github,postman,jenkins,kafka,rabbitmq,linux,bash,babel,jest,tailwind,materialui,unity&perline=3" />
+    </a>
+  </p>
+  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <!-- Markup and Styling -->
+      <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind&perline=3" />
+    </a>
+  </p>
  
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,webstorm&perline=3" />
-  </a>
-  
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,pycharm,webstorm&perline=3" />
+    </a>
+  </p>
 </p>
 
 <h3 align="left">🔮 What I'm currently learning:</h3>
